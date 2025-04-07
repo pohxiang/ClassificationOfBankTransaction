@@ -1,0 +1,4 @@
+Things done:
+
+1. Changed all na values to uncategorized
+Reason: To allow the data to get know more about the dataset
